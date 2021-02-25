@@ -20,10 +20,23 @@ Informe de laboratorio 6
 
 Diagrama  general (circuito)
 
+![](https://github.com/andressanttos/Informe-6/blob/main/img/diagrama%20general.png)
+
+Circuito armado en Simulador DCAClab
+
+![](https://github.com/andressanttos/Informe-6/blob/main/img/diagrama1.png)
+
+Circuito  en el cual el osciloscopio esta conectado a RL
+
+![](https://github.com/andressanttos/Informe-6/blob/main/img/diagrama2.png)
+
+Circuito  en el cual el multimetro esta conectado a RL
+
+![](https://github.com/andressanttos/Informe-6/blob/main/img/diagrama3.png)
 
 4. LISTA DE COMPONENTES
 
-![](img/
+![](https://github.com/andressanttos/Informe-6/blob/main/img/componentes.png)
 
 5. EXPLICACIÓN 
 
