@@ -2,19 +2,20 @@
 Informe de laboratorio 6
 1. OBJETIVOS 
 
-• 
+• Determinar experimentalmente las características de señales senoidales a la vez diferenciar el tipo de corrientes a utilizar en la practica de laboratorio, la corriente alterna.  Reconocer y diferenciarla de la corriente continua, sus valores fundamentales en forma de onda, los cuales serán proporcionados mediante el  multímetro y el osciloscopio.    
 
-• 
+• Calcular y medir los valores característicos de un forma de onda alterna.
 
-• 
+• Adquirir destreza en el manejo adecuado del osciloscopio
+
+• Conocer el manejo del generador de funciones. 
 
 2.MARCO TEÓRICO
 
+Se denomina corriente alterna (ca) a la corriente eléctrica en la que la magnitud y dirección varían periódicamente. La forma de onda de la corriente alterna más
+comúnmente utilizada es la de una onda senoidal, puesto que se consigue una transmisión más eficiente de la energía.
 
-
-![](img/marco.jpg
-
-
+![](img/marco.jpg)
 
 3. DIAGRAMAS
 
@@ -84,7 +85,11 @@ No, coinciden ya que el voltaje que nos da el osciloscopio es un valor pico y el
 
 6. CONCLUSIONES:
 
-•	
+•	Se pudo observar las distintas formas de onda y sus valores, los cuales dependen de la forma de la onda. 
+Se aprendió el uso correcto del osciloscopio y el generador de ondas. 
+
+Existen varios valores los cuales se pueden ver con mayor facilidad usando el osciloscopio. 
+En este mismo sentido, se pudo evidenciar que las gráficas de la corriente alterna pueden tomar diferentes formas, ya sea de forma cuadrada, triangular, sinusoidal, etc.
 
 • 
 
