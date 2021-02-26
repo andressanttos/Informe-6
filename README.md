@@ -104,4 +104,4 @@ indica.
 
 8. Anexos
 
-![](https://github.com/andressanttos/Informe-6/blob/main/img/anexos.png)
+![](https://github.com/andressanttos/Informe-6/blob/main/img/anexos1.1.png)
