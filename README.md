@@ -63,7 +63,7 @@ Está posicionada en el valor de 0.1ms
 
 La amplitud de voltaje es: 6.83 V
 
-El periodo tiene un valor de 0.0001 s
+El periodo tiene un valor de 0.0004 s
  
 
 •	Determine la frecuencia natural (Hz) y la frecuencia angular (rad/s) de la señal de salida. 
