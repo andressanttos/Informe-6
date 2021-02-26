@@ -80,6 +80,7 @@ La frecuencia angular tiene un valor de 15707.963 (rad/s)
 
 No, coinciden ya que el voltaje que nos da el osciloscopio es un valor pico y el valor que nos muestra nuestro voltímetro es un valor rms pero, si el valor pico que nos da el osciloscopio lo convertimos a valor rms comprobamos que nos da un valor similar con un error muy pequeño.  
 
+![](https://github.com/andressanttos/Informe-6/blob/main/img/error.png)
 
 6. CONCLUSIONES:
 
@@ -100,3 +101,5 @@ No, coinciden ya que el voltaje que nos da el osciloscopio es un valor pico y el
 • Veloso C (2017). TEOREMA DE THÉVENIN – CIRCUITO EQUIVALENTE. Recuperado de https://www.electrontools.com/Home/WP/teorema-de-thevenin-circuito-equivalente/
 
 8. Anexos
+
+![](https://github.com/andressanttos/Informe-6/blob/main/img/anexos.png)
