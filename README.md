@@ -85,25 +85,21 @@ No, coinciden ya que el voltaje que nos da el osciloscopio es un valor pico y el
 
 6. CONCLUSIONES:
 
-•	Se pudo observar las distintas formas de onda y sus valores, los cuales dependen de la forma de la onda. 
-Se aprendió el uso correcto del osciloscopio y el generador de ondas. 
+•	Se pudo observar las distintas formas de onda y sus valores, los cuales dependen de la forma de la onda. Se aprendió el uso correcto del osciloscopio y el generador de ondas. 
 
-Existen varios valores los cuales se pueden ver con mayor facilidad usando el osciloscopio. 
+• Existen varios valores los cuales se pueden ver con mayor facilidad usando el osciloscopio. 
+
 En este mismo sentido, se pudo evidenciar que las gráficas de la corriente alterna pueden tomar diferentes formas, ya sea de forma cuadrada, triangular, sinusoidal, etc.
 
-• 
-
-• 
  
 7. BIBLIOGRAFÍA
 
-• Floyd Thomas L, “Principios de Circuitos Eléctricos”, 8 ed. 2007 .Pearson Educación de México, S.A. de C.V. México, pp. 281-333.
+• Floyd Thomas L, “Principios de Circuitos Eléctricos”, 8 ed. 2007 .Pearson Educación de México, S.A. de C.V. México, pp. 406-420.
 
-• Alulema Darwin (2020). Capítulo 6. Teorema de Thevenin. Pags 48-55. 
+• Alulema Darwin (2020). Capítulo 6. Forma de Onda sinusoidal. Pags 28-61. 
 
-• Teorema de Thévenin. 2017. Ecured. Recuperado de: https://www.ecured.cu/Teorema_de_Thévenin
+• Zapata F. (2017). Onda senoidal: características, partes, cálculo, ejemplos. Recuperado de: https://www.lifeder.com/onda-senoidal/ 
 
-• Veloso C (2017). TEOREMA DE THÉVENIN – CIRCUITO EQUIVALENTE. Recuperado de https://www.electrontools.com/Home/WP/teorema-de-thevenin-circuito-equivalente/
 
 8. Anexos
 
