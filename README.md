@@ -85,11 +85,12 @@ No, coinciden ya que el voltaje que nos da el osciloscopio es un valor pico y el
 
 6. CONCLUSIONES:
 
-•	Se pudo observar las distintas formas de onda y sus valores, los cuales dependen de la forma de la onda. Se aprendió el uso correcto del osciloscopio y el generador de ondas. 
+•	Se pudo observar la formas de onda y sus valores en puntos específicos, los cuales dependen del voltaje y la frecuencia. Se aprendió el uso correcto del osciloscopio y el generador de fuente de voltaje. 
 
 • Existen varios valores los cuales se pueden ver con mayor facilidad usando el osciloscopio. 
 
-En este mismo sentido, se pudo evidenciar que las gráficas de la corriente alterna pueden tomar diferentes formas, ya sea de forma cuadrada, triangular, sinusoidal, etc.
+• Una onda seno cambia de polaridad en su valor cero; esto es, alterna entre valores positivos y negativos. Cuando se aplica una fuente de voltaje sinusoidal (VS) a un circuito resistivo, como en la figura, se produce una corriente sinusoidal. Cuando el voltaje cambia de polaridad la corriente, en correspondencia, cambia de dirección como se
+indica. 
 
  
 7. BIBLIOGRAFÍA
